@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/bin/Debug/net6.0/StackInterface
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/bin/Debug/net6.0/StackInterface.deps.json
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/bin/Debug/net6.0/StackInterface.runtimeconfig.json
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/bin/Debug/net6.0/StackInterface.dll
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/bin/Debug/net6.0/StackInterface.pdb
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.AssemblyInfo.cs
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.dll
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/refint/StackInterface.dll
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.pdb
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/StackInterface.genruntimeconfig.cache
+/Users/user/Documents/GitHub/algorithm/lab #4/StackInterface/obj/Debug/net6.0/ref/StackInterface.dll
