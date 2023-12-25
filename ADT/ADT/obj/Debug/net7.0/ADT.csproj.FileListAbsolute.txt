@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.AssemblyInfo.cs
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/bin/Debug/net7.0/ADT
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/bin/Debug/net7.0/ADT.deps.json
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/bin/Debug/net7.0/ADT.runtimeconfig.json
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/bin/Debug/net7.0/ADT.dll
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/bin/Debug/net7.0/ADT.pdb
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.dll
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/refint/ADT.dll
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.pdb
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ADT.genruntimeconfig.cache
+/Users/user/Documents/GitHub/AlgorithmsLab4/ADT/ADT/obj/Debug/net7.0/ref/ADT.dll
