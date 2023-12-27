@@ -6,11 +6,11 @@ class Program
     {
         CursorList<int> cursorList = new CursorList<int>();
 
-        cursorList.Add(15);
-        cursorList.Add(1);
-        cursorList.Add(-3);
-        cursorList.Add(2);
-        cursorList.Add(12);
+        cursorList.AddToEnd(15);
+        cursorList.AddToCursor(1);
+        cursorList.AddToEnd(-3);
+        cursorList.AddToEnd(2);
+        cursorList.AddToCursor(12);
 
         Console.WriteLine(cursorList.Count);
 

@@ -8,7 +8,10 @@ namespace ADT
         T getCurrent();
         void RemoveCurrent();
         void Clear();
-        void Add(T val);
+        void AddToCursor(T val);
+        void AddToEnd(T val);
+        void MoveToFirst();
+        void MoveToLast();
     }
 
     public class CursorList<T> : ICursorList<T>
@@ -24,7 +27,13 @@ namespace ADT
             Count = 0;
         }
 
-        public void Add(T val)
+        public void AddToCursor(T val)
+        {
+            elements.Insert(Cursor, val);
+            Count++;
+        }
+
+        public void AddToEnd(T val)
         {
             elements.Add(val);
             Count++;
@@ -62,6 +71,16 @@ namespace ADT
                 elements.RemoveAt(Cursor);
                 Count--;
             }
+        }
+
+        public void MoveToFirst()
+        {
+            Cursor = 0;
+        }
+
+        public void MoveToLast()
+        {
+            Cursor = elements.Count - 1;
         }
     }
 }
